@@ -1,11 +1,15 @@
 
-<h2>¡Bienvenido/a a mi perfil de GitHub! <img src="https://media.giphy.com/media/dZympJRgaO5IEDcolJ/giphy.gif" width="50" align='center'></h2>
+<h2>¡Soy Daniela Gracía, desarrolladora de software y apasionada de la tecnología! <img src="https://media.giphy.com/media/dZympJRgaO5IEDcolJ/giphy.gif" width="50" align='center'></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRlOTE5OTYxNTQ4NzNkN2MzY2ZmODNhZGIzZGMxNmQ0MDYyNWRiZCZjdD1z/ePc1IPFswJbjNYkgkF/giphy.gif" width="100"></img>
 <p><em>Front-End Developer    <img src="https://media.giphy.com/media/mTs11L9uuyGiI/giphy.gif" width="50" align='center'> 
 </em></p>
 
 
-## Soy Daniela Gracía, desarrolladora de software y apasionada de la tecnología.
+
+
+##### Soy estudiante de Certified Tech Developer en Digital House  y Front-End Developer en el Bootcamp Makaia.
+##### Tengo conocimientos en HTML, CSS, JS, JAVA, y SQL . También me formé en metodologías de la información. 
+##### Me encanta esta carrera que he iniciado y mi expectativa es seguir aprendiendo y crecer profesionalmente en el área IT.
 
 ### Sobre mí:
 
